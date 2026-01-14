@@ -1,6 +1,6 @@
 import requests
 
-TMDB_API_KEY = ""
+TMDB_API_KEY = "3248ea18ac0f544db9c5b3c83bdad19b"
 
 def get_movie(title):
     url = (
